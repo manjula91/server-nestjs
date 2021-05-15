@@ -53,7 +53,7 @@
     "dotenv": "^6.0.0",
     "fastify-formbody": "^2.0.0",
     "graphql": "^0.13.2",
-    "graphql-import": "^0.6.0",
+    "graphql-import": "0.7.1",
     "graphql-subscriptions": "^0.5.8",
     "graphql-tools": "^3.1.1",
     "jsonwebtoken": "^8.3.0",
