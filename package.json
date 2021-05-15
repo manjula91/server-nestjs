@@ -51,7 +51,7 @@
     "apollo-server-express": "^2.0.6",
     "bcryptjs": "^2.4.3",
     "dotenv": "^6.0.0",
-    "fastify-formbody": "^2.0.0",
+    "fastify-formbody": "2.1.0",
     "graphql": "^0.13.2",
     "graphql-import": "^0.6.0",
     "graphql-subscriptions": "^0.5.8",
