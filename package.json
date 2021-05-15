@@ -61,7 +61,7 @@
     "prisma-binding": "^2.1.4",
     "prisma-lib": "^0.1.20",
     "reflect-metadata": "^0.1.12",
-    "rxjs": "^6.0.0",
+    "rxjs": "6.6.7",
     "typescript": "^2.6.2"
   },
   "devDependencies": {
